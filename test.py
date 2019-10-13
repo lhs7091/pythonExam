@@ -1,2 +1,3 @@
-print("hello world")
-print("안녕하세요")
+import sys
+
+print(sys.getsizeof("a"), sys.getsizeof("ab"), sys.getsizeof("abc"))
