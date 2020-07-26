@@ -1,3 +1,6 @@
+# reference
+    https://www.youtube.com/watch?v=bKPIcoou9N8
+
 # Image File 
     https://pixabay.com/
     
@@ -13,4 +16,14 @@
 
     Open notepad
 ![다운로드](https://github.com/lhs7091/pythonExam/blob/master/gui_basic/pics/notepad.png)
-    
+
+
+# GUI Project (Image Merge Program)
+    Open Program
+![다운로드](https://github.com/lhs7091/pythonExam/blob/master/gui_basic/gui_project/pics/image_01.jpg)
+
+    Execute Program
+![다운로드](https://github.com/lhs7091/pythonExam/blob/master/gui_basic/gui_project/pics/image_02.jpg)
+
+    Error Exception
+![다운로드](https://github.com/lhs7091/pythonExam/blob/master/gui_basic/gui_project/pics/image_03.jpg)    
