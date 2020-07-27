@@ -1,0 +1,2 @@
+# Setting
+    - pip install pygame
